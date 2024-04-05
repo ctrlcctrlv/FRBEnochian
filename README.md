@@ -6,10 +6,7 @@ This script may never be suitable for encoding in Unicode, but if it is, this is
 
 ## Enochian, per Wikipedia
 
-**Enochian**
-([[[/[[ɪ]{title="/ɪ/: 'i' in 'kit'"}[ˈ]{title="/ˈ/: primary stress follows"}[n]{title="'n' in 'nigh'"}[oʊ]{title="/oʊ/: 'o' in 'code'"}[k]{title="'k' in 'kind'"}[i]{title="/i/: 'y' in 'happy'"}[ə]{title="/ə/: 'a' in 'about'"}[n]{title="'n' in 'nigh'"}]{style="border-bottom:1px dotted"}/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English")]{.IPA
-.nopopups .noexcerpt lang="en-fonipa"}]{.rt-commentedText .nowrap}
-[*ə-[NOH]{style="font-size:90%"}-kee-ən*](https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key "Help:Pronunciation respelling key"))
+**Enochian** (/ɪˈnoʊkiən/ *ə-NOH-kee-ən*)
 is an occult [constructed
 language](https://en.wikipedia.org/wiki/Constructed_language "Constructed language")
 --- said by its originators to have been received from angels ---
@@ -18,7 +15,7 @@ Dee](https://en.wikipedia.org/wiki/John_Dee "John Dee") and his
 colleague [Edward
 Kelley](https://en.wikipedia.org/wiki/Edward_Kelley "Edward Kelley") in
 late 16th-century England. Kelley was a
-[scryer](https://en.wikipedia.org/wiki/Scryer "Scryer"){.mw-redirect}
+[scryer](https://en.wikipedia.org/wiki/Scryer "Scryer")
 who worked with Dee in his
 [magical](https://en.wikipedia.org/wiki/Renaissance_magic "Renaissance magic")
 investigations. The language is integral to the practice of [Enochian
@@ -34,7 +31,7 @@ Skeptic](https://en.wikipedia.org/wiki/Australian_Skeptics "Australian Skeptics"
 studied the Enochian journals, and argues against any extraordinary
 features. The untranslated texts of the *Liber Loagaeth* manuscript
 recall the patterns of
-[glossolalia](https://en.wikipedia.org/wiki/Glossolalia "Glossolalia"){.mw-redirect}
+[glossolalia](https://en.wikipedia.org/wiki/Glossolalia "Glossolalia")
 rather than true language. Dee did not distinguish the *Liber Loagaeth*
 material from the translated language of the *Calls*, which is more like
 an artificial language. This language was called **Angelical** by Dee
